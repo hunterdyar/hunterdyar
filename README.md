@@ -2,6 +2,8 @@
 
 Hugh “Hunter” Dyar is a creative technologist, photographer, developer, and educator. Hunter works with digital capture technologies and novel digital media processes to create and develop interesting workflows.
 
+He is an Assistant Professor of Immersive Media at Chatham University.
+
 
 <!--
 **hunterdyar/hunterdyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
