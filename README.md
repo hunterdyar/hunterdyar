@@ -1,8 +1,8 @@
-### Hi, I'm Hunter.
+### Hi, I'm Hunter Dyar.
 
-Hugh “Hunter” Dyar is a creative technologist, photographer, developer, and educator. Hunter works with digital capture technologies and novel digital media processes to create and develop interesting workflows.
+I am a creative technologist, photographer, developer, and educator. I work with digital capture technologies and novel digital media processes to create and develop interesting workflows, and I produce open academic resources.
 
-He is an Assistant Professor of Immersive Media at Chatham University.
+I am an Assistant Professor of Immersive Media at Chatham University.
 
 
 <!--
